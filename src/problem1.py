@@ -145,7 +145,7 @@ def problem1a(sequence):
       -- problem1a( (30, 1, 22, 8, 5) )  returns 35.
     """
     # -------------------------------------------------------------------------
-    # TODO: 3. Implement and test this function.
+    # DONE: 3. Implement and test this function.
     #          Tests have been written for you (above).
     # -------------------------------------------------------------------------
     # string = str(sequence[0]) + str(sequence[len(sequence) - 1])
@@ -297,7 +297,7 @@ def problem1b(strings):
            FOR HELP if this problem's specification is not clear to you.
      """
     ###########################################################################
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
     ###########################################################################
     returning = []
@@ -397,7 +397,7 @@ def problem1c(integers):
            their respective indices (0, 1, and 2, respectively).
      """
     ###########################################################################
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
     ###########################################################################
     returning = 999
@@ -541,7 +541,7 @@ def problem1d(t, sequence):
            FOR HELP if this problem's specification is not clear to you.
      """
     ###########################################################################
-    # TODO: 4. Implement and test this function.
+    # DONE: 4. Implement and test this function.
     #          Tests have been written for you (above).
     ###########################################################################
     product = 1
